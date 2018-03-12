@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="btn_add">Sumar</string>
+    <string name="label_result">Resultado</string>
+</resources>
